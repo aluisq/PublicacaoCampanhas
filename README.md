@@ -38,7 +38,7 @@ Antes de começar, você precisará ter instalado em sua máquina:
 
 1.  **Clone o repositório** (ou baixe os arquivos):
     ```bash
-    git clone <url-do-seu-repositorio>
+    git clone https://github.com/aluisq/PublicacaoCampanhas
     cd PublicacaoCampanhas
     ```
 
