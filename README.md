@@ -10,6 +10,17 @@ Este é um aplicativo desktop desenvolvido em Java (JavaFX) para gerenciamento d
 *   **Disparo Imediato**: Simulação de envio imediato de uma campanha através do seu ID.
 *   **Histórico de Processamento**: Registro detalhado de todas as ações (criação, atualização, disparos) com data, hora e tipo de evento.
 
+## 📸 Screenshots
+
+### Tela Inicial / Cadastro
+![Tela Inicial](imgs/tela_inicial.png)
+
+### Listagem de Campanhas
+![Listagem](imgs/listagem.png)
+
+### Disparo Imediato
+![Disparo](imgs/disparo.png)
+
 ## 🛠️ Tecnologias Utilizadas
 
 *   **Java 21 (OpenJDK)**
