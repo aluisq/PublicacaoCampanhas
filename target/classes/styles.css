@@ -1,0 +1,71 @@
+/* Global Styles */
+.root {
+    -fx-font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    -fx-font-size: 14px;
+    -fx-background-color: #f4f4f4;
+}
+
+/* Sidebar */
+.sidebar {
+    -fx-background-color: #2c3e50;
+    -fx-padding: 20;
+}
+
+.sidebar-button {
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-alignment: BASELINE_LEFT;
+    -fx-padding: 10 15;
+    -fx-cursor: hand;
+}
+
+.sidebar-button:hover {
+    -fx-background-color: #34495e;
+}
+
+/* Content Area */
+.content-area {
+    -fx-background-color: white;
+    -fx-padding: 30;
+}
+
+.page-title {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #2c3e50;
+    -fx-padding: 0 0 20 0;
+}
+
+/* Buttons */
+.button {
+    -fx-background-color: #ecf0f1;
+    -fx-text-fill: #2c3e50;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #bdc3c7;
+}
+
+.primary-button {
+    -fx-background-color: #27ae60;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.primary-button:hover {
+    -fx-background-color: #2ecc71;
+}
+
+/* Form Elements */
+.text-field, .text-area, .date-picker, .combo-box {
+    -fx-background-color: white;
+    -fx-border-color: #bdc3c7;
+    -fx-border-radius: 3;
+    -fx-padding: 5;
+}
+
+.text-field:focused, .text-area:focused {
+    -fx-border-color: #3498db;
+}
